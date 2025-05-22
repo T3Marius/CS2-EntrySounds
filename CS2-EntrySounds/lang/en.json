@@ -1,0 +1,6 @@
+{
+    "prefix": "{magenta}[Sounds]{silver} ",
+    "menu<title>": "Entry Sounds",
+    "slider<volume>": "Select Volume",
+    "volume.selected": "Entry sound volume is now to {purple}{0}%"
+}
